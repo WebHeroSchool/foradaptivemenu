@@ -1,0 +1,47 @@
+@media (min-width: 320px) {
+  .head {
+    font-size: 5px;
+  }
+}
+
+@media (min-width: 480px) {
+  .head {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  .head {
+    font-size: 32px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .head {
+    font-size: 45px;
+  }
+}
+
+@media (min-width: 900px) {
+  .head {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .head {
+    font-size: 62px;
+  }
+}
+
+@media (min-width: 1080px) {
+  .head {
+    font-size: 70px;
+  }
+}
+
+@media (min-width: 1920px) {
+  .head {
+    font-size: 82px;
+  }
+}
